@@ -1,0 +1,1 @@
+# docker_application_aws_ecs_pipeline
