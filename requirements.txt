@@ -1,0 +1,3 @@
+# Requirements for python and flask
+flask
+redis
